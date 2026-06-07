@@ -18,3 +18,5 @@ javac Student.java Main.java
 
 Run the program:
 java Main
+
+Final version ready for submission
