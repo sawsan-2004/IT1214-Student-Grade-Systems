@@ -26,6 +26,7 @@ class Student {
         System.out.println("Marks: " + marks);
         System.out.println("----------------------");
     }
+	// updated for assignment submission
 }
 
 	
