@@ -92,5 +92,6 @@ public class Main {
 
         sc.close();
     }
+	// updated for input, search and average features
 }
 
