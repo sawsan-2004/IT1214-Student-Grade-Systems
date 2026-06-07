@@ -24,7 +24,7 @@ class Student {
         System.out.println("ID: " + studentId);
         System.out.println("Name: " + studentName);
         System.out.println("Marks: " + marks);
-        System.out.println("----------------------");
+        System.out.println("");
     }
 	// updated for assignment submission
 }
